@@ -42,4 +42,4 @@ python bot.py
 - `a!tokat <kişi>` - Tokat atar
 - `a!ping` - Botun pingini gösterir
 
-İstediğiniz gibi alıp editleyip kullanabilirsiniz.
+Geliştirici : Rainbow.dev
